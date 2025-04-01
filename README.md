@@ -19,12 +19,13 @@ Setup Instructions
 
 1. Install dependencies
 To run the scripts, you'll need to have Apache Spark and PySpark installed. You can set up a virtual environment and install the required dependencies using the following commands:  
-  pip install pyspark
+
+pip install pyspark
 
 Alternatively, you can use Docker or a cloud-based platform like Databricks to run the project.
 
 
-3. Running the Scripts
+2. Running the Scripts
 After installing PySpark, you can run the scripts as follows:
 
 a. Data Cleaning
