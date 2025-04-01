@@ -1,0 +1,11 @@
+customer_id,name,age,city,signup_date
+1,Alice,25,New York,2022-01-31
+2,Bob,34,Los Angeles,2022-02-28
+3,Charlie,40,Chicago,2022-03-31
+4,David,29,Houston,2022-04-30
+5,Emma,35,Phoenix,2022-05-31
+6,Frank,41,Philadelphia,2022-06-30
+7,Grace,30,San Antonio,2022-07-31
+8,Hannah,38,San Diego,2022-08-31
+9,Ian,27,Dallas,2022-09-30
+10,Jack,50,San Jose,2022-10-31
